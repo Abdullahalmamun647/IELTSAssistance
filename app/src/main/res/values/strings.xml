@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name">IELTS Assistance</string>
+    //listening
+    <string name="listening">The IELTS Listening Test is the first part of the exam. It  approximately 30 minutes (plus 10 minutes transfer time) and the test format consists of 4 sections and a total of 40 questions. The Listening test is the same for both Academic and General Training tests.\nThere are four sections:\n</string>
+    <string name="ql">"Section 1 is a conversation between two people set in an everyday context (e.g. a conversation in an accommodation agency)\n
+
+Section 2 is a monologue set in an everyday social context (e.g. a speech about local families).\n
+
+Section 3 is a conversation between up to four people set in an educational or training context (e.g. a university tutor and student discussing an assignment).\n
+
+Section 4 is a monologue on an academic subject (e.g. a university lecture).\n
+</string>
+
+    <string name="tips_lis">"
+1.Improve your general listening skills\n
+2.identify your listening weaknesses and work on improving those areas.\n
+3.Polish your topic vocabulary\n
+4.Try to get an idea of the situation\n
+5.Don't loose attention\n
+6.Check for silly mistakes\n
+7.Watch out words-indicators\n
+8.Don't write answers too quickly\n
+9.Transfer answers accurately\n
+10.Don't leave any blank answers\n</string>
+
+    /// for reading
+    <string name="reading">
+        You will be allowed 1 hour to complete all 3 sections of the IELTS Academic Reading test.There are 40 questions in this practice paper.The total text length is 2,150-2,750 words.Each question carries one mark.\n\n</string>
+
+
+    <string name="qr">"
+-Each section contains one long text.\n
+-Texts are authentic and are taken from books, journals, magazines and newspapers. They have been written for a non-specialist audience and are on academic topics of general interest.\n
+-Texts are appropriate, and accessible, to test-takers entering undergraduate or postgraduate courses, or seeking professional registration.\n
+-Texts range from descriptive and factual to the discursive and analytical.\n
+-Texts may contain non-verbal materials, such as diagrams, graphs or illustrations.\n
+-texts contain technical terms, a simple glossary is provided.\n</string>
+    <string name="tip_read">
+        Develop skills of each type of question in reading. There are around 14 different types of questions and you need to find a strategy to tackle each one\n
+1.Skimming and Scanning\n
+2.Develop your speed reading skills\n
+3.Do not try to understand the full passage\n
+4.Developing vocabulary\n
+5.key words\n
+6.Grammar\n
+7.Do not over-analyze\n
+8understand collocations (matching verbs with nouns)\n
+9.avoid spelling mistakes\n
+10.Read the instructions and the examples carefully \n</string>
+    <string name="writing">There are two tasks. Candidates are required to write at least 150 words for Task 1 and at least 250 words for Task 2.
+Both responses should be written in a formal style.This Writing test is 60 minutes long.\n\n
+
+    </string>
+    <string name="qw">IELTS Writing Task1 \n\n
+The Writing Task 1 of the IELTS Academic test requires you to write a summary of at least 150 words in
+response to a particular graph (bar, line or pie graph), table, chart, or process (how something works, how something is done).
+ This task tests your ability to select and report the main features, to describe and compare data, identify significance and trends in factual information,
+ or describe a process.\n\n
+IELTS Writing Task 2\n\n
+The five most common IELTS Writing Task 2 questions are: Opinion (Agree or Disagree) Advantages and Disadvantages. Problem and Solution.\n
+    Some of the IELTS writing questions could of course be in more than one topic area.\n\n
+* Animals.\n
+* Culture and Traditions.\n
+* Health, Fitness and Diet.\n
+* Media.\n
+* Technology.\n
+* Science.\n
+    </string>
+
+    <string name="trip_writing">"
+1.Understand the requirements of both tasks\n
+2.Before writing an essay, you must know its basic structure\n
+3.Do Task 2 first, because it is worth more marks and is easier.\n
+4.Do not waste too much time on Task 1\n
+5.You must complete both tasks\n
+6.Writing requires wide academic vocabulary.\n
+7.Plan. Before writing, carefully read and consider all prompt material.\n
+8.Analyse Graphs and Charts.\n
+9.Write convincing essays.\n
+10.Improve your English.\n
+</string>
+
+    ///speaking
+    <string name="speaking">The Speaking test is as close to a real-life situation as an exam can get.
+You will talk to a certified examiner in the IELTS Speaking test. The test is interactive and as close to a real-life situation as a test can get. A variety of accents may be used, and the test will be recorded.
+The content of the IELTS Speaking test is the same for both the IELTS Academic and IELTS General Training tests.This test takes 11-14 minutes.\n\n</string>
+    <string name="qs">" The Speaking test consists of three parts:
+    Task 1: You will be asked to answer general questions about yourself and a range of familiar
+    topics, such as your home, family, work, studies and interests. This part lasts between 4 and 5
+    minutes.\n
+    Task 2: You will be given a card and you will be asked to talk about a particular topic. You
+    will have one minute to prepare before speaking for up to two minutes.\n
+    Task 3: You will be asked further questions connected to the topic in Part 2. These questions
+    give you an opportunity to discuss more abstract issues and ideas. This part lasts between four
+    and five minutes\n</string>
+
+    <string name="tipspeaking">"
+Follow this Speaking test advice and try to talk fluently.
+1.try to talk as much as you can.\n
+2.talk as fluently as possible and be spontaneous.\n
+3.relax, be confident and enjoy using your English.\n
+4.develop your answers.\n
+5.speak more than the examiner.\n
+6.ask for clarification if necessary.\n
+7.Practice Speaking in Real Life Situations.\n
+8.Set Your Target and Make a Timeline\n
+9.Prepare For the IELTS Speaking Test by Listening and Reading\n
+10.Learn From Your Mistakes\n</string>
+
+
+    <string name="answer">
+        <a href="https://ieltsliz.com/">Writing answer</a>
+    </string>
+    <string name="facebook">
+        <a href="https://www.ielts.org/-/media/pdfs/general-writing-answer-sheet-task-1.ashx?la=en">facebook</a>
+    </string>
+    /// Resource
+<string name="r1">
+        <a href="https://www.ielts.org/">1. The official Website of IELTS</a>
+    </string>
+<string name="r2">
+        <a href="https://www.ielts.org/book-a-test/find-a-test-location">2. Find a Test center near your</a>
+    </string>
+<string name="r3">
+        <a href="https://www.ielts.org/book-a-test/how-do-i-register">3. How do I register?</a>
+    </string>
+<string name="r4">
+        <a href="https://howtospell.co.uk/spellingquiz.php">4. Listening Practice </a>
+    </string>
+<string name="r5">
+        <a href="https://howtospell.co.uk/spellingquiz.php">5. Spelling practice </a>
+    </string>
+<string name="r6">
+        <a href="https://www.englisch-hilfen.de/en/exercises_list/alle_grammar.htm">6. Grammar practice </a>
+    </string>
+<string name="r7">
+        <a href="https://www.englisch-hilfen.de/en/exercises_list/alle_grammar.htm">7. Basic Pronunciation practice  </a>
+    </string><string name="r8">
+        <a href="https://www.bbc.co.uk/news/world">8. BBBC World news  </a>
+    </string><string name="r9">
+        <a href="https://www.newscientist.com/">9. For Reading (News Science)  </a>
+    </string>
+    <string name="r10">
+        <a href="https://www.nationalgeographic.com/">10 For Reading (National geography) </a>
+    </string>
+    <string name="answerL">
+        <a href="https://www.ielts.org/-/media/360886d7438541f28295ab83f07a0ef9.ashx">ILETS Listening Answer Sheet  </a>
+    </string>
+    <string name="answerR">
+        <a href="https://www.ielts.org/-/media/pdfs/general-reading-answer-sheet.ashx?la=en">ILETS Reading Answer Sheet  </a>
+    </string>
+    <string name="answerR1">
+        <a href="https://www.ielts.org/-/media/pdfs/academic-writing-answer-sheet-task-1.ashx?la=en">ILETS writing task-1 answer Sheet  </a>
+    </string>
+    <string name="answeR2">
+        <a href="https://www.ielts.org/-/media/pdfs/general-writing-answer-sheet-task-2.ashx?la=en">ILETS writing task-2 answer Sheet  </a>
+    </string>
+
+</resources>
+
+
+

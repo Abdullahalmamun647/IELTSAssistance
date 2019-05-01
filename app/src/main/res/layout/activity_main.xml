@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="177dp"
+                android:layout_marginEnd="83dp"
+                android:layout_marginRight="83dp"
+                android:onClick="ielts"
+                android:padding="0dp"
+                android:src="@drawable/ielts" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="249dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginRight="10dp"
+                android:onClick="listening"
+                android:padding="0dp"
+                android:src="@drawable/listening" />
+
+            <ImageView
+                android:onClick="reading"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="324dp"
+                android:layout_marginEnd="-16dp"
+                android:layout_marginRight="-16dp"
+                android:padding="0dp"
+                android:src="@drawable/reading" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="417dp"
+                android:layout_marginEnd="15dp"
+                android:layout_marginRight="15dp"
+                android:onClick="writing"
+                android:padding="0dp"
+                android:src="@drawable/writing" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="482dp"
+                android:layout_marginEnd="-5dp"
+                android:layout_marginRight="-5dp"
+                android:onClick="speaking"
+                android:padding="0dp"
+                android:src="@drawable/speaking" />
+
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="587dp"
+                android:layout_marginEnd="37dp"
+                android:layout_marginRight="37dp"
+                android:onClick="resouce"
+                android:padding="0dp"
+                android:src="@drawable/resource" />
+
+
+        </RelativeLayout>
+    </ScrollView>
+
+    <ImageView
+
+        android:layout_width="wrap_content"
+        android:layout_height="170dp"
+        android:src="@drawable/promo" />
+
+
+    <Button
+        android:id="@+id/author"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="673dp"
+        android:textStyle="bold"
+        android:background="#009688"
+        android:text="Author" />
+</RelativeLayout>
