@@ -115,29 +115,31 @@ Follow this Speaking test advice and try to talk fluently.
         <a href="https://www.ielts.org/-/media/pdfs/general-writing-answer-sheet-task-1.ashx?la=en">facebook</a>
     </string>
     /// Resource
-<string name="r1">
+    <string name="r1">
         <a href="https://www.ielts.org/">1. The official Website of IELTS</a>
     </string>
-<string name="r2">
+    <string name="r2">
         <a href="https://www.ielts.org/book-a-test/find-a-test-location">2. Find a Test center near your</a>
     </string>
-<string name="r3">
+    <string name="r3">
         <a href="https://www.ielts.org/book-a-test/how-do-i-register">3. How do I register?</a>
     </string>
-<string name="r4">
+    <string name="r4">
         <a href="https://howtospell.co.uk/spellingquiz.php">4. Listening Practice </a>
     </string>
-<string name="r5">
+    <string name="r5">
         <a href="https://howtospell.co.uk/spellingquiz.php">5. Spelling practice </a>
     </string>
-<string name="r6">
+    <string name="r6">
         <a href="https://www.englisch-hilfen.de/en/exercises_list/alle_grammar.htm">6. Grammar practice </a>
     </string>
-<string name="r7">
+    <string name="r7">
         <a href="https://www.englisch-hilfen.de/en/exercises_list/alle_grammar.htm">7. Basic Pronunciation practice  </a>
-    </string><string name="r8">
+    </string>
+    <string name="r8">
         <a href="https://www.bbc.co.uk/news/world">8. BBBC World news  </a>
-    </string><string name="r9">
+    </string>
+    <string name="r9">
         <a href="https://www.newscientist.com/">9. For Reading (News Science)  </a>
     </string>
     <string name="r10">
@@ -155,7 +157,14 @@ Follow this Speaking test advice and try to talk fluently.
     <string name="answeR2">
         <a href="https://www.ielts.org/-/media/pdfs/general-writing-answer-sheet-task-2.ashx?la=en">ILETS writing task-2 answer Sheet  </a>
     </string>
-
+    <string name="fb">
+        <a href="https://www.facebook.com/mamunyourboss">Facebook </a>
+    </string>
+<string name="opinion">Hello,\n
+I am Abdullah Al Mamun from Dhaka, Bangladesh. This in my second application. Here, I tried my best to put all information about ILETS what you need to know. If you plans take IELTS Exam this application help a lot to get initial idea. I believe in all resources will definitely help you to achieve desire score. Hope you guys enjoy this practice as you can. Do share with partner as well as appreciated, you contribution will make me inspired to do something. Any query and suggestion will be accepted with cordially. Let me know your opinion -
+Hello,
+I am Abdullah Al Mamun from Dhaka, Bangladesh. This in my second application. Here, I tried my best to put all information about ILETS what you need to know. If you plans take IELTS Exam this application help a lot to get initial idea. I believe in all resources will definitely help you to achieve desire score. Hope you guys enjoy this practice as you can. Do share with partner as well as appreciated, you contribution will make me inspired to do something. Any query and suggestion will be accepted with cordially. Let me know your opinion -
+</string>
 </resources>
 
 
