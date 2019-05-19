@@ -7,9 +7,9 @@
     android:layout_height="match_parent"
     tools:context=".reading">
     <ImageView
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="170dp"
-
+        android:scaleType="fitXY"
         android:src="@drawable/reading_banner" />
     <ScrollView
         android:layout_width="wrap_content"
@@ -31,14 +31,14 @@
                 android:layout_marginTop="20dp"
                 android:paddingRight="5dp"
                 android:text="@string/reading" />
-            <Button
+            <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Question pattern"
-                android:background="@drawable/shadow"
+                android:textSize="20dp"
                 android:padding="10dp"
                 android:textStyle="bold"
-                android:textColor="#FFFFFF"
+                android:textColor="#03A9F4"
                 android:layout_gravity="center"/>
             <TextView
 
@@ -59,15 +59,15 @@
                 android:text="@string/answerR"
                 android:textSize="14dp"
                 android:textStyle="bold" />
-            <Button
+            <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Tips for Reading "
-                android:background="@drawable/shadow"
+                android:textSize="20dp"
                 android:padding="10dp"
-
+                android:textColor="#03A9F4"
                 android:textStyle="bold"
-                android:textColor="#FFFFFF"
+
                 android:layout_gravity="center"/>
             <TextView
 
@@ -77,19 +77,19 @@
 
                 android:paddingRight="5dp"
                 android:text="@string/tip_read" />
-            <Button
+            <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Brand Score"
-                android:background="@drawable/shadow"
+                android:textSize="20dp"
                 android:padding="10dp"
                 android:textStyle="bold"
-                android:textColor="#FFFFFF"
+                android:textColor="#03A9F4"
                 android:layout_gravity="center"
                 />
             <ImageView
                 android:layout_width="wrap_content"
-                android:src="@drawable/scoreofrea"
+                android:src="@drawable/readingscoreof"
                 android:layout_height="450dp" />
         </LinearLayout>
     </ScrollView>

@@ -10,6 +10,7 @@
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="170dp"
+        android:scaleType="fitXY"
         android:src="@drawable/writing_banner" />
     <ScrollView
         android:layout_width="wrap_content"
@@ -19,7 +20,6 @@
             android:orientation="vertical"
             android:paddingTop="10dp"
             android:layout_height="wrap_content">
-
             <TextView
                 android:id="@+id/listening"
                 android:layout_width="wrap_content"
@@ -30,14 +30,14 @@
                 android:layout_marginTop="20dp"
                 android:paddingRight="5dp"
                 android:text="@string/writing" />
-            <Button
+            <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Question pattern"
-                android:background="@drawable/shadow"
+                android:textSize="20dp"
                 android:padding="10dp"
                 android:textStyle="bold"
-                android:textColor="#FFFFFF"
+                android:textColor="#03A9F4"
                 android:layout_gravity="center"/>
             <TextView
 
@@ -67,14 +67,14 @@
                 android:text="@string/answeR2"
                 android:textSize="14dp"
                 android:textStyle="bold" />
-            <Button
+            <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Tips for Writing"
-                android:background="@drawable/shadow"
+                android:textSize="20dp"
                 android:padding="10dp"
                 android:textStyle="bold"
-                android:textColor="#FFFFFF"
+                android:textColor="#03A9F4"
                 android:layout_gravity="center"/>
             <TextView
 
@@ -83,14 +83,14 @@
                 android:paddingLeft="5dp"
                 android:paddingRight="5dp"
                 android:text="@string/trip_writing" />
-            <Button
+            <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Brand Score"
-                android:background="@drawable/shadow"
+                android:textSize="20dp"
                 android:padding="10dp"
                 android:textStyle="bold"
-                android:textColor="#FFFFFF"
+                android:textColor="#03A9F4"
                 android:layout_gravity="center"
                 />
             <ImageView
