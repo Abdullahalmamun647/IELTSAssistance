@@ -1,126 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
+    android:orientation="vertical"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <ImageView
+
+        android:layout_width="match_parent"
+        android:scaleType="fitXY"
+        android:layout_height="170dp"
+        android:src="@drawable/promo" />
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <RelativeLayout
+        <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
 
             <ImageView
-                android:layout_width="wrap_content"
+
+                android:paddingTop="20dp"
+                android:layout_gravity="center"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="true"
-                android:layout_marginLeft="50dp"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentRight="true"
-                android:layout_marginTop="177dp"
-                android:layout_marginEnd="83dp"
-                android:layout_marginRight="853dp"
                 android:onClick="ielts"
-                android:padding="0dp"
                 android:src="@drawable/ielts" />
 
             <ImageView
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="true"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentRight="true"
-                android:layout_marginTop="249dp"
-                android:layout_marginEnd="10dp"
-                android:layout_marginRight="10dp"
+                android:layout_gravity="center"
                 android:onClick="listening"
-                android:padding="0dp"
+                android:paddingTop="20dp"
                 android:src="@drawable/listening" />
 
             <ImageView
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="true"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentRight="true"
-                android:layout_marginTop="324dp"
-                android:layout_marginEnd="-16dp"
-                android:layout_marginRight="-16dp"
+                android:layout_gravity="center"
                 android:onClick="reading"
-                android:padding="0dp"
+                android:paddingTop="20dp"
                 android:src="@drawable/reading" />
 
             <ImageView
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="true"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentRight="true"
-                android:layout_marginTop="417dp"
-                android:layout_marginEnd="15dp"
-                android:layout_marginRight="15dp"
+                android:layout_gravity="center"
+                android:paddingTop="20dp"
                 android:onClick="writing"
-                android:padding="0dp"
                 android:src="@drawable/writing" />
 
             <ImageView
 
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="true"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentRight="true"
-                android:layout_marginTop="482dp"
-                android:layout_marginEnd="-5dp"
-                android:layout_marginRight="-5dp"
+                android:paddingTop="20dp"
+                android:layout_gravity="center"
                 android:onClick="speaking"
-                android:padding="0dp"
+
                 android:src="@drawable/speaking" />
 
 
             <ImageView
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="true"
-                android:layout_alignParentEnd="true"
-                android:layout_alignParentRight="true"
-                android:layout_marginTop="587dp"
-                android:layout_marginEnd="37dp"
-                android:layout_marginRight="37dp"
+                android:layout_gravity="center"
                 android:onClick="resouce"
-                android:padding="0dp"
+                android:paddingTop="20dp"
                 android:src="@drawable/resource" />
 
             <Button
-                 android:id="@+id/author"
-             
-                android:layout_width="200dp"
+                android:id="@+id/author"
+                android:layout_width="wrap_content"
+                android:layout_gravity="end"
                 android:layout_height="wrap_content"
-
-                android:layout_marginLeft="300dp"
-                android:layout_marginRight="20dp"
-                android:layout_marginTop="680dp"
-                android:layout_marginBottom="100dp"
                 android:background="@drawable/round"
                 android:text="Author"
+                android:layout_marginRight="10dp"
                 android:textColor="#FFFFFF"
-                android:textSize="20dp"
+                android:textSize="15dp"
                 android:textStyle="bold" />
 
-        </RelativeLayout>
+        </LinearLayout>
     </ScrollView>
 
-    <ImageView
 
-        android:layout_width="wrap_content"
-        android:scaleType="fitXY"
-        android:layout_height="170dp"
-        android:src="@drawable/promo" />
 
-</RelativeLayout>
+</LinearLayout>
