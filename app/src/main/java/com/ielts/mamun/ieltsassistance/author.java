@@ -1,4 +1,4 @@
-package com.example.mamun.ieltsassistance;
+package com.ielts.mamun.ieltsassistance;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -7,7 +7,6 @@ import android.os.Bundle;
 import android.text.method.LinkMovementMethod;
 import android.view.View;
 import android.widget.Button;
-import android.widget.ImageView;
 
 public class author extends AppCompatActivity {
 Button face;
@@ -16,7 +15,7 @@ Button face;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_author);
 
-        face.setMovementMethod(LinkMovementMethod.getInstance());
+     
 
     }
 

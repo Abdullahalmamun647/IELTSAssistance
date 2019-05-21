@@ -1,4 +1,4 @@
-package com.example.mamun.ieltsassistance;
+package com.ielts.mamun.ieltsassistance;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

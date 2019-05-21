@@ -1,4 +1,4 @@
-package com.example.mamun.ieltsassistance;
+package com.ielts.mamun.ieltsassistance;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
